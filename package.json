@@ -1,6 +1,6 @@
 {
   "name": "weroll-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "none",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,6 @@
     "yargs": "^6.6.0"
   },
   "bin": {
-    "weroll": "bin/weroll"
+    "weroll": "./index.js"
   }
 }
