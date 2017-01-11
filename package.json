@@ -22,9 +22,14 @@
   },
   "homepage": "https://github.com/jayliang701/weroll-cli#readme",
   "dependencies": {
+    "async": "^2.1.4",
+    "fs-extra": "^1.0.0",
     "mkdirp": "^0.5.1",
     "simple-git": "^1.65.0",
     "tmp": "^0.0.31",
     "yargs": "^6.6.0"
+  },
+  "bin": {
+    "weroll": "bin/weroll"
   }
 }
