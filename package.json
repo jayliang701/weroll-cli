@@ -1,6 +1,6 @@
 {
   "name": "weroll-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "none",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,8 @@
   "homepage": "https://github.com/jayliang701/weroll-cli#readme",
   "dependencies": {
     "async": "^2.1.4",
+    "command-exists": "^1.0.2",
+    "del": "^2.2.2",
     "fs-extra": "^1.0.0",
     "mkdirp": "^0.5.1",
     "simple-git": "^1.65.0",
