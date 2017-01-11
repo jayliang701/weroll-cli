@@ -1,0 +1,30 @@
+{
+  "name": "weroll-cli",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayliang701/weroll-cli.git"
+  },
+  "keywords": [
+    "weroll",
+    "cli",
+    "tool"
+  ],
+  "author": "Jay Liang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayliang701/weroll-cli/issues"
+  },
+  "homepage": "https://github.com/jayliang701/weroll-cli#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "simple-git": "^1.65.0",
+    "tmp": "^0.0.31",
+    "yargs": "^6.6.0"
+  }
+}
