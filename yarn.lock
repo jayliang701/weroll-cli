@@ -620,8 +620,8 @@ pixl-args@^1.0.0:
     pixl-class ">=1.0.0"
 
 pixl-class@>=1.0.0, pixl-class@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/pixl-class/-/pixl-class-1.0.2.tgz#bbeabcf2a9e3a8aa7de52358ab52df12d3e24dfd"
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/pixl-class/-/pixl-class-1.0.3.tgz#1d25d84a2db6ba86b6056b9c71bfbc19dde46c80"
 
 pixl-cli@^1.0.9:
   version "1.0.9"
